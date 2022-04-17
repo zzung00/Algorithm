@@ -1,0 +1,3 @@
+/Users/leejeonghyun/Algorithm/baekjoon/문자열/bj_2941/CMakeFiles/bj_2941.dir
+/Users/leejeonghyun/Algorithm/baekjoon/문자열/bj_2941/CMakeFiles/edit_cache.dir
+/Users/leejeonghyun/Algorithm/baekjoon/문자열/bj_2941/CMakeFiles/rebuild_cache.dir
