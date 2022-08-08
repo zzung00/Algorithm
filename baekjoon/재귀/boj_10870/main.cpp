@@ -5,14 +5,14 @@ using namespace std;
 int fibo(int n) {
     if (n == 0)
     {
-        return n;   
+        return 0;   
     }
-    else if (n == 1)
+    if (n == 1)
     {
-        return n;
+        return 1;
     }
     
-    return (n-1) * (n-2);
+    return fibo(n-1) + fibo(n-2);
 }
 
 int main() {
@@ -21,7 +21,7 @@ int main() {
 
     int n;
     cin >> n;
-    fibo(n);
+    cout << fibo(n) << "\n";
 
     return 0;
 }
