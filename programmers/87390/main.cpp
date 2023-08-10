@@ -27,7 +27,7 @@ int main() {
 
     for (int i : result)
     {
-        cout << i << " ";
+        cout << i << " "; 
     }
     cout << "\n";
 }
