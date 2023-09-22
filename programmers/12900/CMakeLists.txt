@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.20)
+
+project(12900)
+
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED on)
+
+add_executable(12900 main.cpp)
