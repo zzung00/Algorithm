@@ -5,6 +5,9 @@
         "string": "cpp",
         "algorithm": "cpp",
         "ios": "cpp",
-        "iosfwd": "cpp"
+        "iosfwd": "cpp",
+        "numeric": "cpp",
+        "stack": "cpp",
+        "bitset": "cpp"
     }
 }
